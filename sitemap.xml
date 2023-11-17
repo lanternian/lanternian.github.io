@@ -2,9 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lanternian.com/2023/11/16/%E4%B8%80%E7%AF%87%E5%B0%8F%E6%96%87%E7%AB%A0/</loc>
+    <loc>https://lanternian.com/2023/11/16/%E6%B7%B7%E4%B9%B1/</loc>
     
-    <lastmod>2023-11-16</lastmod>
+    <lastmod>2023-11-17</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,7 +40,7 @@
 
   <url>
     <loc>https://lanternian.com/</loc>
-    <lastmod>2023-11-16</lastmod>
+    <lastmod>2023-11-17</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -48,7 +48,7 @@
   
   <url>
     <loc>https://lanternian.com/tags/Web/</loc>
-    <lastmod>2023-11-16</lastmod>
+    <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -57,21 +57,21 @@
   
   <url>
     <loc>https://lanternian.com/categories/CTF/</loc>
-    <lastmod>2023-11-16</lastmod>
+    <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lanternian.com/categories/Algorithm/</loc>
-    <lastmod>2023-11-16</lastmod>
+    <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://lanternian.com/categories/AI/</loc>
-    <lastmod>2023-11-16</lastmod>
+    <lastmod>2023-11-17</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
