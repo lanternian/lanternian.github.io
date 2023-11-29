@@ -6,7 +6,7 @@
   <link href="https://lanternian.com/atom.xml" rel="self"/>
   
   <link href="https://lanternian.com/"/>
-  <updated>2023-11-29T14:30:35.801Z</updated>
+  <updated>2023-11-29T14:52:37.610Z</updated>
   <id>https://lanternian.com/</id>
   
   <author>
@@ -17,45 +17,81 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title></title>
-    <link href="https://lanternian.com/2023/11/29/custom_styles/"/>
-    <id>https://lanternian.com/2023/11/29/custom_styles/</id>
-    <published>2023-11-29T14:30:35.483Z</published>
-    <updated>2023-11-29T14:30:35.801Z</updated>
+    <title>无题</title>
+    <link href="https://lanternian.com/2023/11/29/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95/"/>
+    <id>https://lanternian.com/2023/11/29/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95/</id>
+    <published>2023-11-29T13:01:11.000Z</published>
+    <updated>2023-11-29T14:52:37.610Z</updated>
     
-    <content type="html"><![CDATA[/* 基本文档样式 */body {    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;    line-height: 1.6;    color: #333333;    background-color: #f7f7f7;    padding: 20px;}/* 标题样式 */h1, h2, h3, h4, h5, h6 {    color: #2a6496;    margin-top: 20px;    font-weight: bold;}/* 引用样式 */blockquote {    padding: 10px 20px;    margin: 0 0 20px;    font-size: 17.5px;    border-left: 5px solid #eeeeee;    background-color: #f5f5f5;    color: #666666;}/* 代码块样式 */pre {    display: block;    padding: 9.5px;    margin: 0 0 10px;    font-size: 13px;    line-height: 1.42857143;    word-break: break-all;    word-wrap: break-word;    color: #333333;    background-color: #f5f5f5;    border: 1px solid #cccccc;    border-radius: 4px;}/* 列表样式 */ul, ol {    margin-top: 0;    margin-bottom: 10px;}/* 链接样式 */a {    color: #428bca;    text-decoration: none;}a:hover,a:focus {    color: #2a6496;    text-decoration: underline;}]]></content>
+    <content type="html"><![CDATA[<style>    /* 基本文档样式 */body {    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;    line-height: 1.6;    color: #333333;    background-color: #f7f7f7;    padding: 20px;}/* 标题样式 */h1, h2, h3, h4, h5, h6 {    color: #2a6496;    margin-top: 20px;    font-weight: bold;}/* 引用样式 */blockquote {    padding: 10px 20px;    margin: 0 0 20px;    font-size: 17.5px;    border-left: 5px solid #eeeeee;    background-color: #f5f5f5;    color: #666666;}/* 代码块样式 */pre {    display: block;    padding: 9.5px;    margin: 0 0 10px;    font-size: 13px;    line-height: 1.42857143;    word-break: break-all;    word-wrap: break-word;    color: #333333;    background-color: #f5f5f5;    border: 1px solid #cccccc;    border-radius: 4px;}/* 列表样式 */ul, ol {    margin-top: 0;    margin-bottom: 10px;}/* 链接样式 */a {    color: #428bca;    text-decoration: none;}a:hover,a:focus {    color: #2a6496;    text-decoration: underline;}</style><div style="font-family: Arial, sans-serif; color: #5C4033; background-color: #FFDAB9; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">    <p>突发奇想整理自己的历史记录，缺止步于数据清理，无功而返。</p>    <p>我不禁思考，自己已经多少次如此了，时间无意义地流逝多少次如此了。</p>    <p>这学期只剩最后一个月了，该好好看看我自己时间流动的痕迹了。</p></div><span id="more"></span><blockquote><div style="background-color: white; padding: 10px;">  <font size=5 color='red'>我是大学生！</font><br>  <font size=5 color='red'>不是高中生！！！</font></div></blockquote><hr><h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>11月以来，一切都悄然变化。课表变得满满当当，刚开始还没有那么大的感觉，但现在，我已经完全迷失了。</p><p>回顾9，10月份，9月份都在军训，所以大学学习的正式开始在10月份。那个时候，周一周二十分空闲，几乎全部丢到newstarCTF里面玩去了。想起来也没学其他什么东西。0基础的后果就是<strong>举步维艰</strong>。但是那个时候没啥顾虑，还为此自豪沾沾自喜。至少每天我为我所学感到高兴。那个时候newstarCTF指引着我。 </p><p>11月份，newstarCTF结束了。然后一周的hackergame也在11月初结束了。然后，我就不知所措了。</p><p>或许，我接着玩了几天阿里云白嫖的服务器，幻想搭建自己的一个<em>网站</em>，也是为了web搭建环境。但是始终搞不懂环境配置，宝塔安了又删，php始终解析不了。然后我放弃了。</p><p>然后，我又想学着大佬们，搭建自己的<em>博客</em>。幻想自己有如大佬般五彩斑斓的博客。Hexo部署在了git-page上。但是我作为一个很纠结的人，对每个主题都不满意，又想着自己更改博客样式，那时的我还不知道网页模板，也看不懂ejs和swig之类的模板语言，也不懂得css。说白了，前端三件套我只知道是个啥，看都还不一定看得懂。对于大佬博客的各种功能不知道怎么弄。于是，我放弃了。</p><p>期间，我还玩起了<em>GPT</em>的API接口。幻想着有一日能够用GPT一把梭完成思政作业。什么是API？不知道，只知道在python的蟒蛇书教程里看到过，只知道用代码调用GPT看起来比在web的UI界面chatGPT聊天来的酷。对于openAI，我折腾了好久。什么API的银行卡绑定，什么chatGPT plus的充值等等。API的官方文档也不知道看了多少。最后API是会用了，但是没有自己的产品可以接入，终究徒劳。是的，API是应用程序接口，把别人的功能集成到你的产品上用的。我自己没产品，要API除了练练prompt也没啥用。是的，我还玩了，不，学了几天的prompt。所以，GPT也没有实现我想要的功能。</p><p>而写下这篇文章之时，我又突发奇想，想要通过整理浏览器的历史记录，来总结我过去两个月都折腾了什么。但是作为一个连python迭代器都不知道的菜鸟，json文件也不会打开，自己又懒，只能整日缠着chatGPT4问来问去。加之openAI新发布的GPTs的各种功能，我以为我能不用动脑，完整历史记录的数据处理。但是我错了，截至目前，我还是没办法，GPT也没办法，简化我的历史记录，以足够精简能够总结我的历史技术学习轨迹，或者说，折腾的东西。因为我不会，也不愿看懂<em>数据分析</em>的代码。</p><p>总之，对于每个想法，我都是瞎折腾半天，无功而返，而常常不甘心地忙活到深夜。却终究因为知识的匮乏而放弃。</p><blockquote><p><strong>时间，就在我的晕头转向中流逝</strong></p></blockquote><h1 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h1><h2 id="无知的后果"><a href="#无知的后果" class="headerlink" title="无知的后果"></a>无知的后果</h2><p>实践出真知，理论应用在实践。</p><p>但是，我似乎太缺乏基础知识了，导致自己晕头转向地忙活，浪费大把的时间。</p><p>例如，怼着GPT可以问3，4个小时；又或者抓着Google不放，看各种文章介绍，却都匆匆一瞥看不懂就关掉。</p><p>我好像一个野孩子，在路上抓到什么就是什么，无头无尾，也不知从何而来。</p><p>或许一个CTFer最需要快速掌握了解一项新事物的内容，抱着这样的想法，我对所有内容都是匆匆一瞥而过，不愿驻足。</p><p><a href="./%E6%B7%B7%E4%B9%B1.md">我感兴趣的内容很多</a>,但没有一个我学的透彻，我也没办法在一个月时间内做到”读懂，不会写没关系”，更多时候，我缺乏关键词，在茫茫的网络中搜索，迷失。</p><blockquote><p><strong>时间也无情，冷酷地流逝</strong></p></blockquote><h2 id="慢下来"><a href="#慢下来" class="headerlink" title="慢下来"></a>慢下来</h2><p>这是我的想法。也是我写这篇文章记录的主要目的。<br>现在的我很急，想要一步登天，成为CTF大佬<br>现在的我很急，想要快速掌握<a href="./%E6%B7%B7%E4%B9%B1.md">很多内容</a>，成为全栈大佬。<del>然后装逼</del><br>现在的我很急，想要速通大一课程，绩点全满<br>但是我没有时间，于是我更急了：<br>都要期末了，作业没写，考试内容也不清楚，怎么复习？体育章也没集齐。之前周末都被各种活动占满了。为什么这么忙，这么累？<br>要到期末了，你这一学期自己都学了啥？怎么感觉每天都在瞎折腾？<br>都一学期了，你怎么还没成为大佬？？？</p><p>或许有一部分原因是因为身边信息竞赛的同学太强了，我的好胜心让我不得不找些其他技术栈来让我的虚荣心满足</p><p>同时，我又重新回顾了csdiy自学指南。看着一节课不落，一节课不停的自己，我开始思考：<strong>我是大学生，我不是高三生</strong></p><p>我想我是不是应该好好规划自己的未来该如何学习？如果你什么都要，你什么都抓不住。如果你火急火燎，你终究一事无成。</p><h2 id="反思"><a href="#反思" class="headerlink" title="反思"></a>反思</h2><ol><li>慢下来：<ul><li>学的越快，忘的越快</li></ul></li><li>实践太多，学习太少：<ul><li>大一应该打好基础的同时，多见见世面。而不要沉迷于幻想一步登天 -&gt; 比如什么我只想搞应用，先上手，不会回头再学<del>CTF</del></li></ul></li><li>多记录：<ul><li>没有记录(导致自己回头翻历史记录)会有”蓦然回首，却空无一物”之感。<br>所以多记录，或写日记，或记笔记。</li></ul></li><li>你的规划：<ul><li>至少你不用每天思考接下来要做什么。懒得思考就照着计划做呗，想思考了再思考思考怎么完善自己的计划。</li></ul></li></ol><h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>回到最开始，瞎折腾的空虚感由来已久，但今早重新温故<em>CSdiy自学指南</em>，让我产生了对自己勤勤恳恳上课的怀疑。<br>未来，我想我该改变自己<strong>高三生</strong>似的想法，按照自己的节奏来，找回<strong>大学生</strong>的自由。<br>老生常谈了：</p><blockquote><p><strong>我应该要有自己的计划！！！</strong></p></blockquote>]]></content>
     
     
-      
-      
-    <summary type="html">
+    <summary type="html">&lt;style&gt;
+    
 /* 基本文档样式 */
 body {
     font-family: &#39;Helvetica Neue&#39;, Helvetica, Arial, sans-serif;
     line-height: 1.6;
     color: #333333;
-    backgrou</summary>
-      
-    
-    
-    
-    
-  </entry>
-  
-  <entry>
-    <title>无题</title>
-    <link href="https://lanternian.com/2023/11/29/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95/"/>
-    <id>https://lanternian.com/2023/11/29/%E5%8E%86%E5%8F%B2%E8%AE%B0%E5%BD%95/</id>
-    <published>2023-11-29T13:01:11.000Z</published>
-    <updated>2023-11-29T14:41:26.999Z</updated>
-    
-    <content type="html"><![CDATA[<link rel="stylesheet" type="text/css" href="./custom_styles.css">突发奇想整理自己的历史记录，缺止步于数据清理，无功而返。我不禁思考，自己已经多少次如此了，时间无意义地流逝多少次如此了。这学期只剩最后一个月了，该好好看看我自己时间流动的痕迹了。<span id="more"></span><blockquote><div style="background-color: white; padding: 10px;">  <font size=5 color='red'>我是大学生！</font><br>  <font size=5 color='red'>不是高中生！！！</font></div></blockquote><hr><h1 id="起因"><a href="#起因" class="headerlink" title="起因"></a>起因</h1><p>11月以来，一切都悄然变化。课表变得满满当当，刚开始还没有那么大的感觉，但现在，我已经完全迷失了。</p><p>回顾9，10月份，9月份都在军训，所以大学学习的正式开始在10月份。那个时候，周一周二十分空闲，几乎全部丢到newstarCTF里面玩去了。想起来也没学其他什么东西。0基础的后果就是<strong>举步维艰</strong>。但是那个时候没啥顾虑，还为此自豪沾沾自喜。至少每天我为我所学感到高兴。那个时候newstarCTF指引着我。 </p><p>11月份，newstarCTF结束了。然后一周的hackergame也在11月初结束了。然后，我就不知所措了。</p><p>或许，我接着玩了几天阿里云白嫖的服务器，幻想搭建自己的一个<em>网站</em>，也是为了web搭建环境。但是始终搞不懂环境配置，宝塔安了又删，php始终解析不了。然后我放弃了。</p><p>然后，我又想学着大佬们，搭建自己的<em>博客</em>。幻想自己有如大佬般五彩斑斓的博客。Hexo部署在了git-page上。但是我作为一个很纠结的人，对每个主题都不满意，又想着自己更改博客样式，那时的我还不知道网页模板，也看不懂ejs和swig之类的模板语言，也不懂得css。说白了，前端三件套我只知道是个啥，看都还不一定看得懂。对于大佬博客的各种功能不知道怎么弄。于是，我放弃了。</p><p>期间，我还玩起了<em>GPT</em>的API接口。幻想着有一日能够用GPT一把梭完成思政作业。什么是API？不知道，只知道在python的蟒蛇书教程里看到过，只知道用代码调用GPT看起来比在web的UI界面chatGPT聊天来的酷。对于openAI，我折腾了好久。什么API的银行卡绑定，什么chatGPT plus的充值等等。API的官方文档也不知道看了多少。最后API是会用了，但是没有自己的产品可以接入，终究徒劳。是的，API是应用程序接口，把别人的功能集成到你的产品上用的。我自己没产品，要API除了练练prompt也没啥用。是的，我还玩了，不，学了几天的prompt。所以，GPT也没有实现我想要的功能。</p><p>而写下这篇文章之时，我又突发奇想，想要通过整理浏览器的历史记录，来总结我过去两个月都折腾了什么。但是作为一个连python迭代器都不知道的菜鸟，json文件也不会打开，自己又懒，只能整日缠着chatGPT4问来问去。加之openAI新发布的GPTs的各种功能，我以为我能不用动脑，完整历史记录的数据处理。但是我错了，截至目前，我还是没办法，GPT也没办法，简化我的历史记录，以足够精简能够总结我的历史技术学习轨迹，或者说，折腾的东西。因为我不会，也不愿看懂<em>数据分析</em>的代码。</p><p>总之，对于每个想法，我都是瞎折腾半天，无功而返，而常常不甘心地忙活到深夜。却终究因为知识的匮乏而放弃。</p><blockquote><p><strong>时间，就在我的晕头转向中流逝</strong></p></blockquote><h1 id="思考"><a href="#思考" class="headerlink" title="思考"></a>思考</h1><h2 id="无知的后果"><a href="#无知的后果" class="headerlink" title="无知的后果"></a>无知的后果</h2><p>实践出真知，理论应用在实践。</p><p>但是，我似乎太缺乏基础知识了，导致自己晕头转向地忙活，浪费大把的时间。</p><p>例如，怼着GPT可以问3，4个小时；又或者抓着Google不放，看各种文章介绍，却都匆匆一瞥看不懂就关掉。</p><p>我好像一个野孩子，在路上抓到什么就是什么，无头无尾，也不知从何而来。</p><p>或许一个CTFer最需要快速掌握了解一项新事物的内容，抱着这样的想法，我对所有内容都是匆匆一瞥而过，不愿驻足。</p><p><a href="./%E6%B7%B7%E4%B9%B1.md">我感兴趣的内容很多</a>,但没有一个我学的透彻，我也没办法在一个月时间内做到”读懂，不会写没关系”，更多时候，我缺乏关键词，在茫茫的网络中搜索，迷失。</p><blockquote><p><strong>时间也无情，冷酷地流逝</strong></p></blockquote><h2 id="慢下来"><a href="#慢下来" class="headerlink" title="慢下来"></a>慢下来</h2><p>这是我的想法。也是我写这篇文章记录的主要目的。<br>现在的我很急，想要一步登天，成为CTF大佬<br>现在的我很急，想要快速掌握<a href="./%E6%B7%B7%E4%B9%B1.md">很多内容</a>，成为全栈大佬。<del>然后装逼</del><br>现在的我很急，想要速通大一课程，绩点全满<br>但是我没有时间，于是我更急了：<br>都要期末了，作业没写，考试内容也不清楚，怎么复习？体育章也没集齐。之前周末都被各种活动占满了。为什么这么忙，这么累？<br>要到期末了，你这一学期自己都学了啥？怎么感觉每天都在瞎折腾？<br>都一学期了，你怎么还没成为大佬？？？</p><p>或许有一部分原因是因为身边信息竞赛的同学太强了，我的好胜心让我不得不找些其他技术栈来让我的虚荣心满足</p><p>同时，我又重新回顾了csdiy自学指南。看着一节课不落，一节课不停的自己，我开始思考：<strong>我是大学生，我不是高三生</strong></p><p>我想我是不是应该好好规划自己的未来该如何学习？如果你什么都要，你什么都抓不住。如果你火急火燎，你终究一事无成。</p><h2 id="反思"><a href="#反思" class="headerlink" title="反思"></a>反思</h2><ol><li>慢下来：<ul><li>学的越快，忘的越快</li></ul></li><li>实践太多，学习太少：<ul><li>大一应该打好基础的同时，多见见世面。而不要沉迷于幻想一步登天 -&gt; 比如什么我只想搞应用，先上手，不会回头再学<del>CTF</del></li></ul></li><li>多记录：<ul><li>没有记录(导致自己回头翻历史记录)会有”蓦然回首，却空无一物”之感。<br>所以多记录，或写日记，或记笔记。</li></ul></li><li>你的规划：<ul><li>至少你不用每天思考接下来要做什么。懒得思考就照着计划做呗，想思考了再思考思考怎么完善自己的计划。</li></ul></li></ol><h1 id="结语"><a href="#结语" class="headerlink" title="结语"></a>结语</h1><p>回到最开始，瞎折腾的空虚感由来已久，但今早重新温故<em>CSdiy自学指南</em>，让我产生了对自己勤勤恳恳上课的怀疑。<br>未来，我想我该改变自己<strong>高三生</strong>似的想法，按照自己的节奏来，找回<strong>大学生</strong>的自由。<br>老生常谈了：</p><blockquote><p><strong>我应该要有自己的计划！！！</strong></p></blockquote>]]></content>
-    
-    
-    <summary type="html">&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;./custom_styles.css&quot;&gt;
-突发奇想整理自己的历史记录，缺止步于数据清理，无功而返。
-我不禁思考，自己已经多少次如此了，时间无意义地流逝多少次如此了。
-这学期只剩最后一个月了，该好好看看我自己时间流动的痕迹了。</summary>
+    background-color: #f7f7f7;
+    padding: 20px;
+}
+
+/* 标题样式 */
+h1, h2, h3, h4, h5, h6 {
+    color: #2a6496;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+/* 引用样式 */
+blockquote {
+    padding: 10px 20px;
+    margin: 0 0 20px;
+    font-size: 17.5px;
+    border-left: 5px solid #eeeeee;
+    background-color: #f5f5f5;
+    color: #666666;
+}
+
+/* 代码块样式 */
+pre {
+    display: block;
+    padding: 9.5px;
+    margin: 0 0 10px;
+    font-size: 13px;
+    line-height: 1.42857143;
+    word-break: break-all;
+    word-wrap: break-word;
+    color: #333333;
+    background-color: #f5f5f5;
+    border: 1px solid #cccccc;
+    border-radius: 4px;
+}
+
+/* 列表样式 */
+ul, ol {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+/* 链接样式 */
+a {
+    color: #428bca;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus {
+    color: #2a6496;
+    text-decoration: underline;
+}
+&lt;/style&gt;
+&lt;div style=&quot;font-family: Arial, sans-serif; color: #5C4033; background-color: #FFDAB9; padding: 15px; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);&quot;&gt;
+    &lt;p&gt;突发奇想整理自己的历史记录，缺止步于数据清理，无功而返。&lt;/p&gt;
+    &lt;p&gt;我不禁思考，自己已经多少次如此了，时间无意义地流逝多少次如此了。&lt;/p&gt;
+    &lt;p&gt;这学期只剩最后一个月了，该好好看看我自己时间流动的痕迹了。&lt;/p&gt;
+&lt;/div&gt;</summary>
     
     
     
