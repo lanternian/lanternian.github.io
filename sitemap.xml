@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://lanternian.com/gpt</loc>
+    <loc>https://lanternian.com/chatGPT/</loc>
     
     <lastmod>2023-12-02</lastmod>
     
@@ -11,7 +11,7 @@
   </url>
   
   <url>
-    <loc>https://lanternian.com/2023/11/16/%E6%B7%B7%E4%B9%B1/</loc>
+    <loc>https://lanternian.com/%E6%B7%B7%E4%B9%B1/</loc>
     
     <lastmod>2023-11-17</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://lanternian.com/2023/11/14/hello-world/</loc>
+    <loc>https://lanternian.com/hello-world/</loc>
     
     <lastmod>2023-11-16</lastmod>
     
