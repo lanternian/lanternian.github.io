@@ -1,38 +1,86 @@
 ---
 title: Hello World
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+````python
+# Python
+print("Hello, World!")
+````
 
-### Create a new post
+````javascript
+// JavaScript
+console.log("Hello, World!");
+````
 
-``` bash
-$ hexo new "My New Post"
-```
+````java
+// Java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello, World!");
+    }
+}
+````
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+````c
+// C
+#include <stdio.h>
+int main() {
+    printf("Hello, World!\n");
+    return 0;
+}
+````
 
-### Run server
+````cpp
+// C++
+#include <iostream>
+int main() {
+    std::cout << "Hello, World!" << std::endl;
+    return 0;
+}
+````
 
-``` bash
-$ hexo server
-```
+````csharp
+// C#
+using System;
+class Program {
+    static void Main() {
+        Console.WriteLine("Hello, World!");
+    }
+}
+````
 
-More info: [Server](https://hexo.io/docs/server.html)
+````ruby
+# Ruby
+puts "Hello, World!"
+````
 
-### Generate static files
+````go
+// Go
+package main
+import "fmt"
+func main() {
+    fmt.Println("Hello, World!")
+}
+````
 
-``` bash
-$ hexo generate
-```
+````swift
+// Swift
+print("Hello, World!")
+````
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+````php
+<!-- PHP -->
+<?php
+echo "Hello, World!";
+?>
+````
 
-### Deploy to remote sites
+````bash
+# Bash
+echo "Hello, World!"
+````
 
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+````r
+# R
+print("Hello, World!")
+````
