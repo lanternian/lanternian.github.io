@@ -175,7 +175,7 @@ meta:
 
   # 文章目录
   toc: 
-    enable: false
+    enable: true
     list_number: false
 
   # 文章版权声明
@@ -427,7 +427,7 @@ fancybox:
   auto: false
   
 # 返回顶部
-back_to_top: false
+back_to_top: true
 
 # 深色模式
 darkmode: false
