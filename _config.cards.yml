@@ -52,8 +52,8 @@ navbar:
   menu: 
     - name: Home
       url: /
-    # - name: Tags
-    #   url: /tags/
+    - name: Tags
+      url: /tags/
     - name: Archives
       url: /archives/
     # - name: 友链
@@ -87,7 +87,7 @@ style:
 
   # 颜色配置
   color: 
-    main_color: '#6200ee'
+    main_color: '#333333'
     main_color_dark: '#bb86fc'
     selection_color: '#318efd'
 

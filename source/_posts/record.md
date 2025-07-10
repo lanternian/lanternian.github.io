@@ -1,6 +1,6 @@
 ---
 title: 刷题记录
-tag: ctf
+tags: ctf
 ---
 
 # 24-12-07
@@ -31,7 +31,7 @@ CTF：重点关注api,controller等处理请求的文件。
 
 ## pearcmd
 
-[register_argc_argv与include to RCE的巧妙组合 - Longlone's Blog](https://longlone.top/安全/安全研究/register_argc_argv与include to RCE的巧妙组合/#)
+[register_argc_argv与include to RCE的巧妙组合 - Longlone's Blog]("https://longlone.top/安全/安全研究/register_argc_argv与include to RCE的巧妙组合/#")
 
 [Docker PHP裸文件本地包含综述 | 离别歌](https://www.leavesongs.com/PENETRATION/docker-php-include-getshell.html#0x06-pearcmdphp)
 
