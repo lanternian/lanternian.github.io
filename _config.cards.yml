@@ -14,7 +14,7 @@ head:
   
   # 网站图标
   favicon:
-    ico: 
+    ico: https://cdn.jsdelivr.net/gh/lanternian/blog-image-hosting/images/sleeping-capoo.ico
     small: 
     medium: 
     apple_touch_icon: 
@@ -52,8 +52,8 @@ navbar:
   menu: 
     - name: Home
       url: /
-    - name: Tags
-      url: /tags/
+    # - name: Tags
+    #   url: /tags/
     - name: Archives
       url: /archives/
     # - name: 友链
@@ -72,7 +72,7 @@ cover:
   sitename: lan
 
   # 若 avatar 配置不为空，则优先使用 avatar 覆盖 sitename
-  avatar: 
+  avatar: https://cdn.jsdelivr.net/gh/lanternian/blog-image-hosting/images/sleeping-capoo.jpg
   
   # sitename/avatar 下方的一句话介绍
   description: I am forgetting the past, ignoring feelings, and losing everything.
@@ -140,8 +140,8 @@ meta:
   
   # 默认文章作者（可在front-matter中覆盖）
   author:
-    name: ChrAlpha
-    url: https://chralpha.com
+    name: lan
+    url: https://lanternian.github.io
   
   # 文章创建日期
   date:
