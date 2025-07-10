@@ -52,10 +52,10 @@ navbar:
   menu: 
     - name: Home
       url: /
-    - name: Tags
-      url: /tags/
     - name: Archives
       url: /archives/
+    - name: About
+      url: /about/
     # - name: 友链
     #   url: /friends/
     # - name: Page
@@ -75,7 +75,7 @@ cover:
   avatar: https://cdn.jsdelivr.net/gh/lanternian/blog-image-hosting/images/sleeping-capoo.jpg
   
   # sitename/avatar 下方的一句话介绍
-  description: I am forgetting the past, ignoring feelings, and losing everything.
+  description: My memory is blurring, feelings are disappearing, and everything is fading.
 
 
 
